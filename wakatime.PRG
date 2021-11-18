@@ -17,6 +17,7 @@ oWakaTime.cApiKey=lcApiKey
 oWakaTime.cProxy=lcProxy
 oWakaTime.cLogPath=lcLogFile
 oWakaTime.Setup()
+addproperty(_VFP,"oWakaTime",oWakaTime)
 
 return
 
