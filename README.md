@@ -1,4 +1,6 @@
 # wakatime-vfp
+<img src="https://dbdb.io/media/logos/visualfoxpro.png" alt="drawing" width="100"/>
+
 This small FoxPro program will send usage data to [wakatime.com](https://wakatime.com) from the Visual FoxPro IDE
 
 # Preparation
@@ -22,8 +24,8 @@ If you know better, please let me know ;)
 
 # Changelog
 ## Version 1.0
- - Initial release with basic wakatime support 
+ - Initial release with basic wakatime support
 
 # Support me <3
-If you like my work, please consider supporting it =]  
+If you like my work, please consider supporting it =]
 And donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=37PBGZPHXY8EC)
